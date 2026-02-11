@@ -1,6 +1,6 @@
 - 👋 Hei, Jeg er Viggo
 - 👀 Jeg liker turer
-- 🌱 Lærer meg PHP, JavaScript og C#
+- 🌱 Lærer meg PHP, JavaScript og C
 - ⚡ Fun fact: Ensom og i hvett? Bruk Samtaler På Nett!
 
 <!---
